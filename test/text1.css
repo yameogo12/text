@@ -1,0 +1,22 @@
+body{
+  background-color: Lightblue;
+  font-family:verdana;
+  border:2px 2px 2px;
+  
+  
+}
+p{
+	font-family:ariel sans-serif;
+
+	
+}
+.img{ 
+    width: 1200px;
+	height: 400px;
+}
+.ifram{
+	width: 560px;
+	height: 315;
+	border: 0;
+	background-image: allow full screen;
+}
